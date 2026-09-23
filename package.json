@@ -1,0 +1,28 @@
+{
+  "name": "@esportsmath/player-impact-rar",
+  "version": "1.0.0",
+  "description": "Role-Adjusted Rating (RAR z-score) normalizer and Negative Binomial kill-prop distribution generator for esports player lines",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "player-rar": "./cli.js"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "keywords": [
+    "cs2",
+    "player-props",
+    "rar",
+    "role-adjusted-rating",
+    "negative-binomial",
+    "poisson",
+    "esports-math"
+  ],
+  "author": "EsportsMath Labs <research@esportsmath.org>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esportsmath-labs/player-impact-rar.git"
+  }
+}
