@@ -2,7 +2,7 @@
 
 [![Tests](https://img.shields.io/badge/Tests-Passing-00FF88.svg)](https://github.com/esportsmath-labs/player-impact-rar)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Portal](https://img.shields.io/badge/Portal-esportsmath.org-00E5FF.svg)](https://esportsmath.org/en/tools/player-prop-model/)
+[![Portal](https://img.shields.io/badge/Portal-esportsmath.org-00E5FF.svg)](https://esportsmath.org/en/tools/player-impact-calculator/)
 [![Affiliation](https://img.shields.io/badge/Institution-Applied%20Probability%20Institute-gold.svg)](https://esportsmath.org/en/about/)
 
 Quantitative performance normalizer and Negative Binomial kill-prop distribution generator for Counter-Strike 2 (CS2) player proposition markets. Eliminates positional role bias by standardizing kills per round (KPR) against positional expectations.
@@ -42,7 +42,7 @@ node cli.js
 ---
 
 ## 🌐 Live Interactive Tool
-Test live player prop projections and calculate fair lines at [esportsmath.org/tools/player-prop-model/](https://esportsmath.org/en/tools/player-prop-model/).
+Test live player prop projections and calculate fair lines at [esportsmath.org/en/tools/player-impact-calculator/](https://esportsmath.org/en/tools/player-impact-calculator/).
 
 ## 📜 Citation
 ```bibtex
